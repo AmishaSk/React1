@@ -1,0 +1,25 @@
+body {
+  background: rgb(214, 214, 224);
+}
+
+.App > form {
+  margin-top: -20%;
+}
+
+.form-group input{
+  height: 25px;
+  margin: 0px;
+  border: 1px solid red;
+  border-radius: 5px;
+}
+
+button {
+  background: #b42505;
+  text-align: center;
+  text-decoration-color: #dfdfdf;
+  width: 350px;
+  height: 40px;
+}
+p {
+  color: red;
+}
